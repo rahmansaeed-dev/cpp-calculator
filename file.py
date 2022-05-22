@@ -1,0 +1,1 @@
+print("Answer: ", eval(input("Enter expression: ")))
